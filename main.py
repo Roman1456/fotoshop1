@@ -13,7 +13,7 @@ app.setStyleSheet("""
 
     QLabel
     {
-        background-color: #e0f542;
+        background-color: #fbffdb;
         font-size: 18px;
         border-style: double;
         border-width: 5px;
